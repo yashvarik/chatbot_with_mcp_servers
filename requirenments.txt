@@ -1,0 +1,6 @@
+langchain
+langchain-groq
+langgraph
+fastmcp
+tavliy
+streamlit
