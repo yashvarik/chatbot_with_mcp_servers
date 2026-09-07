@@ -2,5 +2,5 @@ langchain
 langchain-groq
 langgraph
 fastmcp
-tavliy
+tavily-python
 streamlit
